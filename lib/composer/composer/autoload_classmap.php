@@ -573,6 +573,7 @@ return array(
     'OC\\Core\\Command\\Security\\RemoveCertificate' => $baseDir . '/core/Command/Security/RemoveCertificate.php',
     'OC\\Core\\Command\\Status' => $baseDir . '/core/Command/Status.php',
     'OC\\Core\\Command\\TwoFactorAuth\\Base' => $baseDir . '/core/Command/TwoFactorAuth/Base.php',
+    'OC\\Core\\Command\\TwoFactorAuth\\Cleanup' => $baseDir . '/core/Command/TwoFactorAuth/Cleanup.php',
     'OC\\Core\\Command\\TwoFactorAuth\\Disable' => $baseDir . '/core/Command/TwoFactorAuth/Disable.php',
     'OC\\Core\\Command\\TwoFactorAuth\\Enable' => $baseDir . '/core/Command/TwoFactorAuth/Enable.php',
     'OC\\Core\\Command\\TwoFactorAuth\\State' => $baseDir . '/core/Command/TwoFactorAuth/State.php',

@@ -603,6 +603,7 @@ class ComposerStaticInit53792487c5a8370acc0b06b1a864ff4c
         'OC\\Core\\Command\\Security\\RemoveCertificate' => __DIR__ . '/../../..' . '/core/Command/Security/RemoveCertificate.php',
         'OC\\Core\\Command\\Status' => __DIR__ . '/../../..' . '/core/Command/Status.php',
         'OC\\Core\\Command\\TwoFactorAuth\\Base' => __DIR__ . '/../../..' . '/core/Command/TwoFactorAuth/Base.php',
+        'OC\\Core\\Command\\TwoFactorAuth\\Cleanup' => __DIR__ . '/../../..' . '/core/Command/TwoFactorAuth/Cleanup.php',
         'OC\\Core\\Command\\TwoFactorAuth\\Disable' => __DIR__ . '/../../..' . '/core/Command/TwoFactorAuth/Disable.php',
         'OC\\Core\\Command\\TwoFactorAuth\\Enable' => __DIR__ . '/../../..' . '/core/Command/TwoFactorAuth/Enable.php',
         'OC\\Core\\Command\\TwoFactorAuth\\State' => __DIR__ . '/../../..' . '/core/Command/TwoFactorAuth/State.php',
